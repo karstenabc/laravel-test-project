@@ -1,0 +1,43 @@
+[
+    {
+        "value":"1",
+        "text":{
+            "65":{
+                "id":"65",
+                "added":"2021-01-09 22:28:35",
+                "fname":"\/private\/1\/2021\/01\/5ffa2e13eaf723.41442819.pdf",
+                "filename":"CSC3123-Brief.pdf",
+                "public":"0",
+                "user_id":"1",
+                "log_id":"1"
+            }
+        }
+    },
+    
+    {
+        "value":"2",
+        "text":[]
+    }
+]
+
+
+ {
+     "65":{
+         "id":"65",
+         "added":"2021-01-09 22:28:35",
+         "fname":"\/private\/1\/2021\/01\/5ffa2e13eaf723.41442819.pdf",
+         "filename":"CSC3123-Brief.pdf",
+         "public":"0",
+         "user_id":"1",
+         "log_id":"1"
+    },
+    "66":{
+        "id":"66",
+        "added":"2021-01-10 19:10:09",
+        "fname":"\/private\/1\/2021\/01\/5ffb5111594be6.06320654.pdf",
+        "filename":"CSC3123-Brief.pdf",
+        "public":"0",
+        "user_id":"1",
+        "log_id":"1"
+    }
+} [] 
